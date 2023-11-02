@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <PracticeComponents8 />
+    <PracticeComponents9 />
   </div>
 </template>
 
 <script>
-import PracticeComponents8 from "@/components/PracticeComponents8.vue";
+import PracticeComponents9 from "@/components/PracticeComponents9.vue";
 
 export default {
   name: 'App',
   components: {
-    PracticeComponents8
+    PracticeComponents9
   }
 }
 </script>
